@@ -41,6 +41,8 @@ MAN !!
 
 > Press ```ESC``` key to close the window.
 
+> Press ```P``` key to increase max iteration || ```O``` key to decrease max iterations.
+
 # BONUSES
 
 > Press ```1``` || ```2``` || ```3``` || ```4``` To access the diffrent fractals added.
